@@ -9,4 +9,3 @@ M101X: Introduction to MongoDB using the MEAN Stack (edX)
 
 done by ROleP
 
-_rolep_@mail.ru

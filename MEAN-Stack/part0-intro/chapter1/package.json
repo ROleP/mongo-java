@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "async": "2.0.0-rc.1",
+    "mongodb": "2.1.10"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-mocha": "2.2.0",
+    "mocha": "2.4.5"
+  }
+}
